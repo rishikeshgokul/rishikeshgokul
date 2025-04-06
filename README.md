@@ -9,7 +9,7 @@
 ## 🚀 What I'm Into
 
 - 🧠 Machine Learning & AI  
-- 📊 Visualization  
+- 📊 web development  
 - 🔧 Automation & Scripting  
 - 💻 Embedded Systems & high-level Programming  
 - 🧪 Experimenting with new tech & open-source
