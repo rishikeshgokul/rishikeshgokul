@@ -11,23 +11,17 @@
 - 🧠 Machine Learning & AI  
 - 📊 web development  
 - 🔧 Automation & Scripting  
-- 💻 Embedded Systems & high-level Programming  
+- 💻 Embedded Systems & high-level Programming 
 - 🧪 Experimenting with new tech & open-source
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Python 
+- **Languages**: Python, c, html
 - **Tools**: Git, Linux, VS Code
 - **Frameworks**: Pandas, NumPy, Flask, Tkinter, PyTorch (learning!)  
 - **Interests**: APIs, Microcontrollers, Algorithms, CLI tools
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats]()
 
 ---
 
